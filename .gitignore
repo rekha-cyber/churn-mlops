@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+
+# pycache
+__pycache__/
+
+# models
+models/
+
+.ipynb_checkpoints/
+
